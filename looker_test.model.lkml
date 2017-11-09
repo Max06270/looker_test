@@ -7,5 +7,3 @@ include: "*.view"
 include: "*.dashboard"
 
 explore: products {}
-
-explore: top_10_products {}
